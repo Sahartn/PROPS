@@ -2,11 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-import Profile from './profile/Profile';
+import App from './App.js';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Profile />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );

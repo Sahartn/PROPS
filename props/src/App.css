@@ -1,5 +1,7 @@
-rk.App {
+.App {
   text-align: center;
+  background-color: darksalmon;
+  
 }
 
 .App-logo {
